@@ -1,0 +1,19 @@
+body {
+    background: #fcfdef;
+}
+
+em{
+     color: #FF0000;
+ }
+
+font{
+     color: springgreen;
+}
+
+span{
+    color: 	#3CB371;
+}
+
+ #change{
+    float: right;
+}

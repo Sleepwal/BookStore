@@ -1,0 +1,11 @@
+.underLine{
+    border-bottom: 2px dashed #9b0bff;
+}
+
+#leftTable{
+    border-spacing: 30px;
+}
+
+a{
+    text-decoration: none;
+}
