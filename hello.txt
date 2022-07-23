@@ -5,6 +5,6 @@ hello git
 hello git 
 hello git 
 hello git 343
-<<<<<<< HEAD
 hello git 23784   master test  
 hello git 999999999999999999999 hot-fix test
+0000000000000000000000000000000
