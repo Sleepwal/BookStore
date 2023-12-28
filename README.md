@@ -1,3 +1,7 @@
 # BookStore
-JavaWeb大作业
-上传记录下来
+
+JavaWeb图书管理系统
+
+主要技术
+- 前端：JSP
+- 后端：Servlet
